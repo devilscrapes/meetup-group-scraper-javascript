@@ -1,0 +1,11 @@
+{
+  "groupUrls": [
+    "chapter-community"
+  ],
+  "eventWindow": "upcoming",
+  "maxEvents": 10,
+  "includeDescription": true,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
